@@ -1,2 +1,11 @@
-# Sito-SPIN-OMEGA
-Sito web del progetto OMEGA per il CNR-SPIN. Fatto con tema Hugo-Hero-Theme, asset custom presi 1:1 da FOXES. www.omega.spin.cnr.it
+## To-do list personale
+- [ ] Sostituire asset di FOXES con asset di OMEGA
+
+## Associazioni
+* Homepage
+* About → Abstract
+* Services → Publications
+* Work → Final Workshop
+* Work → Laboratories
+* History → Team
+* Contact → HQ
