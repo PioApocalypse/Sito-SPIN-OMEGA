@@ -1,0 +1,87 @@
+baseURL = 'https://www.omega.spin.cnr.it/'
+languageCode = 'en-us'
+title = 'OMEGA'
+themeDir = 'themes'
+theme = 'hugo-hero-theme'
+
+ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted while rendering'
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.141.0'
+    
+[params]
+  #google_analytics_id='' # Google Analytics non ci interessa
+
+  [params.logo]
+    mobile = 'images/logo-mobile.svg'
+    mobile_height = '36px'
+    mobile_width = '36px'
+    desktop = 'images/logo.png'
+    desktop_height = '29px'
+    desktop_width = '217px'
+    alt = 'OMEGA Homepage'
+
+  [params.homepage_meta_tags]
+    meta_description = 'Oxide Membranes hosting an Electron GAs - PRIN PNRR 2022 2022TCJP8K.'
+    meta_og_title = 'OMEGA - CNR-SPIN'
+    meta_og_type = 'website'
+    meta_og_url = 'https://www.spin.cnr.it'
+    meta_og_image = '/OG-image.png'
+    meta_og_description = 'Oxide Membranes hosting an Electron GAs - PRIN PNRR 2022 2022TCJP8K.'
+    # meta_twitter_card = 'summary'
+    # meta_twitter_site = '@zerostaticio'
+    # meta_twitter_creator = '@zerostaticio'
+
+
+[[menu.main]]
+    name = 'Project'
+    url = '/project/'
+    weight = 1
+
+[[menu.main]]
+    name = 'Team'
+    url = '/team/'
+    weight = 2
+# Da aggiungere e configurare. Template prob. stesso di seminars e workshops
+# [[menu.main]]
+#     name = 'Laboratories'
+#     url = '/labs/'
+#     weight = 3
+
+[[menu.main]]
+    name = 'Workshop'
+    url = '/workshop/'
+    weight = 4
+
+[[menu.main]]
+    name = 'Laboratories'
+    url = '/laboratories/'
+    weight = 5
+
+[[menu.main]]
+	  name = 'Publications'
+	  url = '/publications/'
+    weight = 6
+
+# [[menu.main]]
+#     name = 'Headquarters'
+#     url = '/hq/'
+#     weight = 7
+
+[[menu.main]]
+	name = 'Dissemination'
+	url = '/dissemination/'
+  weight = 8
+
+[permalinks]
+  post = '/:year/:month/:day/:slug/'
+  pages = '/:filename/'
+
+[security]
+[security.exec]
+  allow = ['^asciidoctor$'] # allow asciidoctor
+
+[markup.goldmark.renderer]
+  unsafe = true # allow raw HTML rendering
