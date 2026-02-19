@@ -41,14 +41,9 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
     weight = 1
 
 [[menu.main]]
-    name = 'Team'
-    url = '/team/'
+    name = 'Spalled Membranes'
+    url = '/spalled-membranes/'
     weight = 2
-# Da aggiungere e configurare. Template prob. stesso di seminars e workshops
-# [[menu.main]]
-#     name = 'Laboratories'
-#     url = '/labs/'
-#     weight = 3
 
 [[menu.main]]
     name = 'Workshop'
@@ -56,24 +51,9 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
     weight = 4
 
 [[menu.main]]
-    name = 'Laboratories'
-    url = '/laboratories/'
-    weight = 5
-
-[[menu.main]]
 	  name = 'Publications'
 	  url = '/publications/'
     weight = 6
-
-# [[menu.main]]
-#     name = 'Headquarters'
-#     url = '/hq/'
-#     weight = 7
-
-[[menu.main]]
-	name = 'Dissemination'
-	url = '/dissemination/'
-  weight = 8
 
 [permalinks]
   post = '/:year/:month/:day/:slug/'
