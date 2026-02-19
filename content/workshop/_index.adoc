@@ -32,6 +32,17 @@ This Workshop aims at bringing together the Research Community working on Freest
 * Prof. *Emiliano Di Gennaro* University of Naples Federico II (Italy) +
 * Dr. *Fabio Miletto Granozio* CNR-SPIN (Italy)
 
+[#agenda]
+=== Agenda
+// Tilde usato come simbolo di approssimazione, deve essere escaped con la ++ notation
+The workshop will begin on the *20^th^ October at ++~++9:30*, and will end on the *21^th^ October at ++~++13:10*.
+
+The programme of the workshop is available for download link:/work/FOXES_20-21oct.pdf[*here*^].
+
+image::/work/FOXES_workshop_calendar.png[title="Preview of the programme. Click to open.", width="100%", link=/work/FOXES_workshop_calendar.png, window=_blank]
+
+{nbsp}
+
 [#book-of-abstracts]
 === Book of Abstracts
 *The book of abstracts can be downloaded link:/work/FOXES_abstract_book.pdf[here^].*
@@ -93,17 +104,6 @@ Abstracts can be submitted for the following types of presentation:
 The abstract should be prepared using the provided MS Word template. +
 You can download the MS Word template link:https://docs.google.com/document/d/1aLzPdoWwwza7GMTc_eNqqd6MoVk_MPvZ/view?tab=t.0[*here*^], +
 and you can submit your abstract link:https://forms.gle/bpG2iDZDoG8ZCHXp9[*here*^].
-
-[#agenda]
-=== Agenda
-// Tilde usato come simbolo di approssimazione, deve essere escaped con la ++ notation
-The workshop will begin on the *20^th^ October at ++~++9:30*, and will end on the *21^th^ October at ++~++13:10*.
-
-The programme of the workshop is available for download link:/FOXES_20-21oct.pdf[*here*^].
-
-image::/work/FOXES_workshop_calendar.png[title="Preview of the programme. Click to open.", width="100%", link=/work/FOXES_workshop_calendar.png, window=_blank]
-
-{nbsp} +
 
 [#venue]
 === Venue
