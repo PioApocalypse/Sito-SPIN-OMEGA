@@ -1,0 +1,51 @@
+---
+title: 'Hotels in Naples'
+date: 2025-06-30
+heroHeading: 'Hotels in Naples'
+heroSubHeading: ''
+#heroBackground: ''
+---
+
+The following list of hotels in progress offer fixed rates to FOXES/OMEGA participants. *Booking will be subject to availability*.
+
+The costs are per room per night including breakfast. Reservations will be made on a first-come-first-served basis. The rates below are guaranteed for the conference days. Requests for extra nights will be handled case-by-case depending on availability and hotel policies.
+
+The suggested hotels are located in different areas of Naples, the distance to the venue is indicated in the table below.
+
+[cols="3,3,3,2", grid=all]
+|===
+|Hotel |Distance from venue |How to book |Average cost
+
+| link:https://www.relaispiazzadelplebiscito.com/[*Relais Piazza del Plebiscito B&B*^]
+| Approx 1 km +
+(link:https://maps.app.goo.gl/CXwqub5DJvSAzjx19[Link to Google Maps^])
+| link:https://book.octorate.com/octobook/site/reservation/calendar.xhtml?codice=837105&lang=IT[Link for booking^] +
+Quoting “FOXES meeting participant” in the special requests section
+| *EUR 121*
+
+| link:http://www.debonartnaples.com/[*Hotel de Bonart Naples 5☆*^]
+| Approx 2.3 km +
+(link:https://maps.app.goo.gl/25CwAT3qFtqyLaev8[Link to Google Maps^])
+| link:https://www.debonartnaples.com/it/index.php?url=it/index.php[Link for booking^] +
+Quoting “FOXES” (in Group Code)
+| *15% discount on the public rate*
+
+| link:https://www.hotelnaples.it/en/[*Hotel Naples 4☆*^]
+| Approx 2.5 km +
+(link:https://maps.app.goo.gl/DTsmuDqrf24dP1dF8[Link to Google Maps^])
+| Email: info@hotelnaples.it +
+Quoting “Conferenza FOXES 20-21 Ottobre”
+| *EUR 200 - 240*
+
+| link:https://www.dionisoshotels.com/accommodation/palazzo-salgar-napoli/[*Dioniso's Hotels - Palazzo Salgar 4☆*^]
+| Approx 2.9 km +
+(link:https://maps.app.goo.gl/om743AH6jTzipCsa7[Link to Google Maps^])
+| Email: info@palazzosalgar.com +
+Quoting “FOXES”
+| *EUR 144 - 154*
+|=== 
+
+{nbsp}
+
+NOTE: Costs depend on the type of room and the number of people. City tax not included. We cannot guarantee that these rates are lower than those you may find on online booking websites. +
+Naples offers a wide range of accommodation at different prices. You can also find the accommodation more suitable to your needs via Booking, Hostelworld, or other hotel booking websites. Prices of hotels can rise quickly and, therefore, we recommend to book the hotel fairly early.

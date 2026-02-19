@@ -1,0 +1,138 @@
+---
+title: 'Final Workshop'
+date: 2025-05-21
+heroHeading: 'Final Workshop'
+heroSubHeading: ''
+#heroBackground: ''
+excludeSummary: true
+---
+:figure-caption!:
+
+[#the-workshop]
+== The Workshop “Freestanding Oxide Membranes: science and applications”, will be held on October 20-21, 2025, in Naples, Italy.
+{empty} +
+
+Freestanding oxide membranes represent a new frontier in functional materials research. Their remarkable flexibility and structural adaptability—far exceeding that of bulk materials and conventional epitaxial films—open new pathways for exploring phase diagrams, offer unprecedented opportunities for the exploration of complex phase diagrams and the investigation of otherwise inaccessible states of matter. The ability to stack single or multiple freestanding oxide membranes on diverse substrates facilitates relatively straightforward integration with CMOS platforms, thereby enabling promising advancements in oxide-based electronic devices and emerging applications.
+
+This Workshop aims at bringing together the Research Community working on Freestanding Oxides Membranes, at discussing the latest developments in this field, with a particular focus on applications in electronics, sensing  and other emerging technologies.
+
+[#invited-speakers]
+=== Confirmed Invited Speakers
+
+* *Thomas Sand Jespersen* (Technical University of Denmark) "Quantum Transport and Devices based on LAO/STO freestanding micro-membranes"
+* *Jalan Bharat* (University of Minnesota, USA): "Oxide Bicrystals: A Route to Interfacial Quasicrystals"
+* *Milan Radovic* (PSI Center for Photon Science, Paul Scherrer Institut, Switzerland): "Complex Oxide Membranes as Platforms for the Growth of Freestanding Heterostructures"
+* *Yuefeng Nie* (Nanjing University, China): "Ferroelectric Topologies in BaTiO3 Nanomembranes for Light Field Manipulation"
+* *Ming Liu* (Xi'an Jiaotong University, China): "Free-standing Ferroelectric and Magnetoelectric single crystal Membranes with super-elasticity"
+
+[#committee]
+=== Organizing Committee
+
+* Dr. *Alessia Sambri* CNR-SPIN (Italy) +
+* Prof. *Emiliano Di Gennaro* University of Naples Federico II (Italy) +
+* Dr. *Fabio Miletto Granozio* CNR-SPIN (Italy)
+
+[#book-of-abstracts]
+=== Book of Abstracts
+*The book of abstracts can be downloaded link:/work/FOXES_abstract_book.pdf[here^].*
+
+image::/work/FOXES_group_photo_cropped.jpeg[title="Group photo. Click for full-size.", width="80%", link=/work/FOXES_group_photo.jpeg, window=_blank]
+
+{nbsp} +
+
+[#important-dates]
+=== Important Dates
+
+*Abstract submission extended deadline*: 27 July +
+*Abstract acceptance*: 5 August +
+*Deadline for registration*: 10 October
+
+---
+
+[#registration]
+== *Registration*
+*Complete the registration form link:https://forms.gle/RvLZEaSLi74rC42s9[here^].*
+
+Deadline for registration is *10^th^ October 2025*. +
+The registration fee is *EUR 100* and includes:
+
+* Attendance to all scientific sessions;
+* Packed lunches and coffee breaks;
+* *Social dinner* on October 20th at restaurant _“La Bersagliera”_, Borgo Marinari 10/11, Naples.
+
+*The payment of the registration fee should be made via bank transfer to*:
+
+* *Bank holder*: _Scientific Communication srl_
+* *IBAN*: _IT55 C032 9601 6010 0006 4359 714_
+* *SWIFT* (BIC): _FIBKITMM_
+* *Bank name*: _BANCA FIDEURAM - Intesa Sanpaolo Private Banking SpA_
+* *Bank address*: _Via Melchiorre Gioia 22, 20124 Milano_
+
+In the reason for payment, please indicate: “*FOXES, _Family Name_, _Name_*”.
+
+Bank transfers must be made in EURO. The transfer amount is expected to be delivered in full to the beneficiary. Please send us an email with a copy of the bank transfer payment to the Organizing Secretariat at info@jeangilder.it
+
+[#invoices]
+=== Invoices
+Please indicate on the registration form to whom the invoice should be addressed.
+
+[#cancellation-policy]
+=== Cancellation policy
+Cancellations must be notified in writing to Scientific Communication srl. Cancellations received prior to 15 September 2025 will be entitled to a full refund minus any expenses (e.g. bank charges) and EUR 20 for cancellation fee. Later cancellations will not be refunded. Substitute delegates will be accepted. Registration can only be confirmed once payment is received.
+
+---
+
+[#submit]
+== *Submit your abstract*
+Abstracts can be submitted for the following types of presentation:
+
+[upperalpha]
+. Contributed talk (17 + 3' min)
+. Poster (A0 size, portrait layout - width 841 mm × height 1189 mm)
+
+The abstract should be prepared using the provided MS Word template. +
+You can download the MS Word template link:https://docs.google.com/document/d/1aLzPdoWwwza7GMTc_eNqqd6MoVk_MPvZ/view?tab=t.0[*here*^], +
+and you can submit your abstract link:https://forms.gle/bpG2iDZDoG8ZCHXp9[*here*^].
+
+[#agenda]
+=== Agenda
+// Tilde usato come simbolo di approssimazione, deve essere escaped con la ++ notation
+The workshop will begin on the *20^th^ October at ++~++9:30*, and will end on the *21^th^ October at ++~++13:10*.
+
+The programme of the workshop is available for download link:/FOXES_20-21oct.pdf[*here*^].
+
+image::/work/FOXES_workshop_calendar.png[title="Preview of the programme. Click to open.", width="100%", link=/work/FOXES_workshop_calendar.png, window=_blank]
+
+{nbsp} +
+
+[#venue]
+=== Venue
+Centro Congressi Partenope, Sala A Via Partenope, 36 - Napoli (link:https://www.centrocongressi.unina.it/via-partenope/[more info^])
+
+[#hotel]
+=== Hotels in Naples
+A number of hotels near the venue offer fixed rates to FOXES/OMEGA participants. +
+A list of said hotels and more details are available link:hotel[*here*].
+
+[#contacts]
+=== Contacts
+*Organizing Secretariat | Scientific Communication srl*: link:mailto:info@jeangilder.it[info@jeangilder.it^]
+
+// Copiare i file in /content/laboratories/*.md per popolare questa sezione. Occorrono foto e dettagli. 
+
+---
+
+*Joint Workshop funded by*
+
+*FOXES - Freestanding OXides Epitaxial Strained micro-heterostructures* +
+PRIN PNRR 2022 2022TCT72 +
+PI: A. Sambri
+
+image:/logos/eu_funded.png[title="EU Funded",height="60"] image:/logos/MUR.png[title="Funded by MUR",height="60"]
+
+
+*OMEGA - Oxide Membranes hosting an Electron Gas* +
+PRIN 2022 2022TCJP8K +
+PI: F. Miletto Granozio
+
+image:/logos/MUR.png[title="Funded by MUR",height="60"]
