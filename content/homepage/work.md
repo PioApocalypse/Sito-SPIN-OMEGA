@@ -1,9 +1,9 @@
 ---
-title: 'Read our publications'
-weight: 1
+title: 'Our publications'
+weight: 2
 background: 'pubs/LAO_STO_tick_tips_03.png'
-button: 'Publications'
+button: 'Read our publications'
 buttonLink: 'publications'
 ---
 
-More coming soon.
+More coming soon in 2026.

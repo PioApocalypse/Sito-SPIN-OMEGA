@@ -1,9 +1,9 @@
 ---
-title: 'Our Team'
-weight: 2
+title: 'Spalled Membranes'
+weight: 3
 background: ''
-button: 'Team'
-buttonLink: 'team'
+button: 'Visit the page'
+buttonLink: 'spalled-membranes'
 ---
 
-Meet the minds behind our work.
+Exploring different ways to realize membrane-based devices.
