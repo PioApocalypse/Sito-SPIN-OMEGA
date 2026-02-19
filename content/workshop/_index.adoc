@@ -41,15 +41,11 @@ The programme of the workshop is available for download link:/work/FOXES_20-21oc
 
 image::/work/FOXES_workshop_calendar.png[title="Preview of the programme. Click to open.", width="100%", link=/work/FOXES_workshop_calendar.png, window=_blank]
 
-{nbsp}
-
 [#book-of-abstracts]
 === Book of Abstracts
 *The book of abstracts can be downloaded link:/work/FOXES_abstract_book.pdf[here^].*
 
 image::/work/FOXES_group_photo_cropped.jpeg[title="Group photo. Click for full-size.", width="80%", link=/work/FOXES_group_photo.jpeg, window=_blank]
-
-{nbsp} +
 
 [#important-dates]
 === Important Dates
