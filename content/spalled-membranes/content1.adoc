@@ -1,0 +1,24 @@
+---
+title: 'Freestanding spalled micromembranes'
+date: 2026-02-19T16:00:00+10:00
+weight: 1
+button: 'Our Results'
+buttonLink: '/publications'
+#background: '/pubs/LAO_STO_tick_tips_03.png'
+#align: center
+---
+
+Our approach to membrane formation is based on strain engineering. By preserving the strained growth of LAO and STO well above expectations from elastic theory, we induce a devastating strain relaxation process that fragments the surface in self-formed, regularly shaped LAO/STO micro sized freestanding heteromembranes. A sketch of the process is shown in Fig.1a. The long lasting RHEED oscillations in regime of strained growth are reported in Fig.1b. Low-resolution electron microscopy HREM images of the two steps of the breaking mechanism are shown in Fig. 1c,d.
+
+.a) Sketch depicting the three different stages for LAO/STO membranes formation via spalling: Phase #1, growth of a strained film; phase #2, development of a vertical cracks; phase #3: fracturing of the surface in bilayer membranes. b) First 600 s of evolution of RHEED (0,0) spot intensity for a 180 nm LAO sample. c) Low-resolution cross section electron microscopy image of an 80 nm thick LAO sample. In the region under observation, the sample is “frozen” in the intermediate phase #2; d) Phase #3: low resolution cross-sectional TEM image of a typical membrane section having a curvature radioud Rcurv= 8 micrometers.
+image::/images/figure-1.png[width="60%", alt="where figure 1 should be", link=/images/figure-1.png, window=_blank]
+
+Through a collaboration with University of Copenhagen (KU) and the Technical University of Denmark (DTU), now implemented also by the employment of needles or microgripper in a SEM at CNR-SPIN Salerno (see Fig.2), we are able to select and pick up specific single membranes, then measured electrically at DTU.
+
+.Scanning Electrons Microscopy of a LAO/STO sample, showing the presence of a dense and regular pattern of freestanding spalled membranes. The inset shows a needle used to prelevate and move single membranes on different substrates (among other possible techniques).
+image::/images/figure-2.png[width="60%", alt="where figure 2 should be", link=/images/figure-2.png, window=_blank]
+
+Our activity will include the preparation of prepatterned substrates for the controlled growth of membrane matrices with predefined shape, deterministic placement of membranes on chip and realization of the contacts. We will explore differeFOXESnt ways to realize membrane-based devices, as summarized in Figure 3.
+
+.Different device fabrication pathwayes.
+image::/images/figure-3.png[width="60%", alt="where figure 3 should be", link=/images/figure-3.png, window=_blank]
