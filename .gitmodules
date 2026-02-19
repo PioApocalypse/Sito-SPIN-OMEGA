@@ -1,0 +1,3 @@
+[submodule "themes/hugo-hero-theme-for-science"]
+	path = themes/hugo-hero-theme-for-science
+	url = git@github.com:PioApocalypse/hugo-hero-theme-for-science.git
