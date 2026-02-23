@@ -24,12 +24,12 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
     alt = 'OMEGA Homepage'
 
   [params.homepage_meta_tags]
-    meta_description = 'Oxide Membranes hosting an Electron GAs - PRIN PNRR 2022 2022TCJP8K.'
+    meta_description = 'Oxide Membranes hosting an Electron GAs - PRIN 2022 2022TCJP8K.'
     meta_og_title = 'OMEGA - CNR-SPIN'
     meta_og_type = 'website'
     meta_og_url = 'https://www.spin.cnr.it'
     meta_og_image = '/OG-image.png'
-    meta_og_description = 'Oxide Membranes hosting an Electron GAs - PRIN PNRR 2022 2022TCJP8K.'
+    meta_og_description = 'Oxide Membranes hosting an Electron GAs - PRIN 2022 2022TCJP8K.'
     # meta_twitter_card = 'summary'
     # meta_twitter_site = '@zerostaticio'
     # meta_twitter_creator = '@zerostaticio'

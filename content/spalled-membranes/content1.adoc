@@ -18,7 +18,7 @@ Through a collaboration with University of Copenhagen (KU) and the Technical Uni
 .Scanning Electrons Microscopy of a LAO/STO sample, showing the presence of a dense and regular pattern of freestanding spalled membranes. The inset shows a needle used to prelevate and move single membranes on different substrates (among other possible techniques).
 image::/images/figure-2.png[width="60%", alt="where figure 2 should be", link=/images/figure-2.png, window=_blank]
 
-Our activity will include the preparation of prepatterned substrates for the controlled growth of membrane matrices with predefined shape, deterministic placement of membranes on chip and realization of the contacts. We will explore differeFOXESnt ways to realize membrane-based devices, as summarized in Figure 3.
+Our activity will include the preparation of prepatterned substrates for the controlled growth of membrane matrices with predefined shape, deterministic placement of membranes on chip and realization of the contacts. We will explore different ways to realize membrane-based devices, as summarized in Figure 3.
 
 .Different device fabrication pathwayes.
 image::/images/figure-3.png[width="60%", alt="where figure 3 should be", link=/images/figure-3.png, window=_blank]

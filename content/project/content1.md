@@ -30,7 +30,7 @@ selectively grow membrane matrices made of elements with given position and shap
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anita Guarino (CNR-SPIN Salerno) \
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rosalba Fittipaldi (CNR-SPIN Salerno)
 
-**Program**: PRIN PNRR 2022 \
+**Program**: PRIN 2022 \
 **Funding Agency**: Italian Ministry of University and Research (MUR) \
 **Project ID**: 2022TCJP8K \
 **Duration**: Sep 2023 - Feb 2026 \
