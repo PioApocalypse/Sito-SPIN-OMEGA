@@ -57,7 +57,7 @@ ignoreLogs = ['warning-goldmark-raw-html'] # Sopprime warn 'Raw HTML omitted whi
 
 [permalinks]
   post = '/:year/:month/:day/:slug/'
-  pages = '/:filename/'
+  pages = '/:contentbasename/'
 
 [security]
 [security.exec]
