@@ -1,0 +1,39 @@
+---
+title: 'The Project'
+date: 2026-02-19T16:00:00+10:00
+weight: 1
+button: 'Our Results'
+buttonLink: '/publications'
+#background: '/pubs/LAO_STO_tick_tips_03.png'
+#align: center
+---
+
+A major challenge for 21 century materials scientists will be finding novel concepts and materials, able to outperform and progressively replace silicon-based CMOS electronics, thus guaranteeing in next decades the steady growth of computational performances necessary to drive human progress. Among the candidate materials to contribute to this momentous challenge, oxide films and heterostructures are a particularly appealing hunting ground. Within the wider framework above, the 2-dimensional electron gas (2DEG) forming al the LaAl0 /SrTi0~3~ (LAO/STO) interface has been capturing the interest of an ever-growing scientific community since over 15 years. The very nature of this system places it at the
+merging point of oxide materials science with another exciting and fast-growing field of research and technology, i.e., low-dimensional systems. Unfortunately, so far, the low-dimensional nature only applies to the LAO/STO electronic properties, while, in mechanical terms, actual samples have macroscopic dimensions and thickness.
+In 2020, some of the in CNR-SPIN labs in Naples it has been proved for the first time a method able to produce metallic and superconducting LAO/STO Membranes, based on strain engineering by Pulsed Laser Deposition. 
+
+The **OMEGA** Project (*Oxide Membranes hosting and Electron GAs*), structured in five Work Packages (WP), aims to bring such new discovery from the present level of a successful proof of concept to a maturity level able to provide substantial breakthroughs in science and technology. We plan to:
+
+++-++ Engineer modified or totally new oxide heteromembranes (WP1); +
+++-++ Perform surface and structural characterizations (WP2); +
+++-++ Implement circuit and device nanofabrication (WP3); +
+++-++ Characterize our circuits and devices (WP4); +
+++-++ Disseminate our results also by creating an international oxide membranes community (WP5).
+
+The project will allow, in scientific terms, to understand in detail the membrane formation process, to investigate the electronic properties of modified or totally new oxide heteromembrane variants, also beyond LAO/STO, and to systematically address the interplay between strain and a number of electronic properties as conductivity, superconductivity, ferroelectricity, flexoelectricity and orbital crystal-field splitting. It also aims at achieving important technological results, as the development of a method to
+selectively grow membrane matrices made of elements with given position and shape, transfer them rigidly on chip and contact them through metal nanowires. We plan to demonstrate fabrication of a network of interconnected superconducting field-effect devices, switchable well below 100 mV and potentially showing a ferroelectric memory effect.
+
+=== Additional info
+**Principal Investigator**: Fabio Miletto Granozio (CNR-SPIN Napoli) +
+**Local Unit**: Emiliano di Gennaro +
+**Team**: Alessia Sambri (CNR-SPIN Napoli) +
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Carmine Granata (CNR-ISASI Pozzuoli) +
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Anita Guarino (CNR-SPIN Salerno) +
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rosalba Fittipaldi (CNR-SPIN Salerno)
+
+**Program**: PRIN 2022 +
+**Funding Agency**: Italian Ministry of University and Research (MUR) +
+**Project ID**: 2022TCJP8K +
+**Duration**: Sep 2023 - Feb 2026 +
+**Budget**: 392.333 Euro 
+
