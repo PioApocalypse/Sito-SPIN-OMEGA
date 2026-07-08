@@ -124,11 +124,12 @@ A list of said hotels and more details are available link:hotel[*here*].
 PRIN PNRR 2022 2022TCT72 +
 PI: A. Sambri
 
-image:/logos/eu_funded.png[title="EU Funded",height="60"] image:/logos/MUR.png[title="Funded by MUR",height="60"]
-
+image:/logos/eu_funded.png[title="EU Funded",height="60",link="https://next-generation-eu.europa.eu/index_it",window=_blank]
+image:/logos/MUR.png[title="Funded by MUR",height="60",link="https://www.mur.gov.it/it",window=_blank]
+image:/logos/italia_domani.png[title="Italia Domani",height="60",link="https://www.italiadomani.gov.it/content/sogei-ng/it/it/home.html",window=_blank]
 
 *OMEGA - Oxide Membranes hosting an Electron Gas* +
 PRIN 2022 2022TCJP8K +
 PI: F. Miletto Granozio
 
-image:/logos/MUR.png[title="Funded by MUR",height="60"]
+image:/logos/MUR.png[title="Funded by MUR",height="60",link="https://www.mur.gov.it/it",window=_blank]
