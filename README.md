@@ -1,5 +1,5 @@
 ## To-do list personale
-- [ ] Sostituire asset di FOXES con asset di OMEGA
+- [x] Sostituire asset di FOXES con asset di OMEGA
 
 ## Associazioni
 * Homepage
